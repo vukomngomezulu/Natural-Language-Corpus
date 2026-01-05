@@ -159,3 +159,6 @@ Group 26 – University Student Project
 ---
 
 🌍 *“Preserving isiZulu, empowering technology.”*
+
+## Project Documentation 
+https://drive.google.com/drive/mobile/folders/1v3xL0fxQURse92tTlQBqvFuPQgnSsL4q
